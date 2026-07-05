@@ -19,6 +19,7 @@ This project is an interactive HR Analytics Dashboard developed using Power BI. 
 - Data Visualization
 
 ## Dashboard Preview
+
 ![Dashboard](Screenshot 2026-06-30 194536.png)
 
 ## Project Objective
@@ -26,3 +27,4 @@ The objective of this dashboard is to analyze employee attrition patterns and wo
 
 ## Author
 Mukesh Kumar
+
